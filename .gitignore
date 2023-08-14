@@ -1,0 +1,9 @@
+# webstorm
+config.json*
+.vscode
+.idea
+# package-lock*.json
+demo/
+# *.Dockerfile
+start.sh
+.scannerwork
