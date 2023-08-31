@@ -2,7 +2,7 @@
 
 # Instruction
 
-- Please complete the problem below within 3 days of the assignment being sent.
+- Please complete the problem below within 2 days of the assignment being sent.
 - You may use the coding language you are most comfortable with. (if you use nodejs it will be a plus  point)
 - Your fundamentals are more important to us than proficiency in our tech stack.
 - Adding Unit test with various test case
